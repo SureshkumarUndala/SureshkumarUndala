@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sureshkumarundala&label=Profile%20views&color=0e75b6&style=flat" alt="sureshkumarundala" /> </p>
 
-- 🌱 I’m currently learning **practicing Data Structure & Algorithms and various technologies regarding to full-stcak**
+- 🌱 I’m currently learning **practicing Data Structure & Algorithms and various technologies regarding to full-stack**
 
 - 🤝 I’m looking to **collabarate on Projects and build web applications**
 
